@@ -54,7 +54,7 @@ La funcionalidad de nuestro proyecto se puede extrapolar hacia otro tipo de tras
 
 # Authors <a name="9"></a>
 
-- Gerard Prats Gili
+- Gerard Prats Gili -  1562615
 - Javier Alejandro Camacho Machaca - 1566088
-- Matias Risco
-- Joan Tibau Terma
+- Matias Risco Lagos - 1459721
+- Joan Tibau Terma - 1564130
