@@ -38,9 +38,11 @@ En resumen, las funcionalidades mas importantes que tiene este proyecto son:
 Para este proyecto hemos diseñado dos piezas.
 
 -La Base y Soporte.
+
 ![Image text](https://github.com/j4v1t0/UrFren/blob/main/Imagenes/Base_Soporte_Robot.PNG)
 
--Soporte para el Servomotor de 180º
+-Soporte para el Servomotor de 180º.
+
 ![Image text](https://github.com/j4v1t0/UrFren/blob/main/Imagenes/Soporte_Servomotor.PNG)
 
 # Video <a name="7"></a>
