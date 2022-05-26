@@ -19,7 +19,7 @@ Con un presupuesto de 100€ nuestro grupo de 4 personas han diseñado y program
 # Requeriments <a name="2"></a>
 
 # Description <a name="3"></a>
-Nuestro robot llamado “UrFren”, esta diseñado para el entretenimiento, siguiendo las reglas de un juego infantil llamado “Green light Red light”. Disponemos de una cámara situada en el ojo de nuestra muñeca, que captura imágenes cuando esta en su estado de vigilancia, a través de estas imágenes, gracias a un algoritmo que hemos utilizado y modificado, podemos detectar (la cantidad de personas)" si en estas imágenes hay personas. Si hay personas,"; se les identificara individualmente para posteriormente mencionarlas cuando estén eliminados. Este aviso será a través de un altavoz que tenemos integrado. 
+Nuestro robot llamado “UrFren”, esta diseñado para el entretenimiento, siguiendo las reglas de un juego infantil llamado “Green light Red light”. Disponemos de una cámara situada en el ojo de nuestra muñeca, que captura imágenes cuando esta en su estado de vigilancia, a través de estas imágenes, gracias a un algoritmo que hemos utilizado y modificado, podemos detectar la cantidad de personas, se les identificara individualmente para posteriormente mencionarlas cuando estén eliminados. Este aviso será a través de un altavoz que tenemos integrado. 
 
 En el cuello de la muñeca tenemos puesto un servomotor de 180 grados, para así poder girar la cabeza y poder pasar de un estado de vigilancia a un estado de No-Vigilancia y viceversa. 
 
