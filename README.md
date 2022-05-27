@@ -32,6 +32,8 @@ En resumen, las funcionalidades mas importantes que tiene este proyecto son:
 
 # Software Diagram <a name="4"></a>
 
+![Image text](https://github.com/j4v1t0/UrFren/blob/main/Imagenes/Diagrama_Software.png)
+
 # Hardware Scheme <a name="5"></a>
 
 # 3D Pieces  <a name="6"></a>
