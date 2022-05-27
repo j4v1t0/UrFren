@@ -34,6 +34,8 @@ En resumen, las funcionalidades mas importantes que tiene este proyecto son:
 
 # Hardware Scheme <a name="5"></a>
 
+![Image text](https://github.com/j4v1t0/UrFren/blob/main/Imagenes/Imagen_Fritzing.PNG)
+
 # 3D Pieces  <a name="6"></a>
 Para este proyecto hemos diseñado dos piezas.
 
