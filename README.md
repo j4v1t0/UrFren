@@ -48,7 +48,7 @@ Para este proyecto hemos diseñado dos piezas.
 
 ![Image text](https://github.com/j4v1t0/UrFren/blob/main/Imagenes/Soporte_Servomotor.PNG)
 
-# Video 
+# Video <a name="7"></a>
 
 Link al video: https://www.youtube.com/watch?v=8vSqVPoNY-0
 
