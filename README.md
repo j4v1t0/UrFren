@@ -9,6 +9,7 @@
 * [Software Diagram](#4)
 * [Hardware Scheme](#5)
 * [3D Pieces](#6)
+* [Video](#7)
 * [Amazing Contributions](#8)
 * [Authors](#9)
 
@@ -47,6 +48,9 @@ Para este proyecto hemos diseñado dos piezas.
 
 ![Image text](https://github.com/j4v1t0/UrFren/blob/main/Imagenes/Soporte_Servomotor.PNG)
 
+# Video <a name="7"></a>
+
+Link al video: https://www.youtube.com/watch?v=8vSqVPoNY-0
 
 # Amazing Contributions <a name="8"></a>
 Nuestro proyecto tiene una finalidad hacia el mundo del entretenimiento, porque esta pensado para ser una especie de juguete. Pero quitando este aspecto, nuestro robot tiene un algoritmo que mediante visión por computador detecta si esta viendo personas y si se están moviendo. Gracias a esto, podemos identificar a cada persona individualmente y controlarlos, avisando a la persona respectivamente de si se ha movido o no.
